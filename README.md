@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-I’m a Senior Cybersecurity Engineer With 11+ years of experience across security engineering, cloud security, and incident response, I specialize in building secure cloud environments, automating security workflows, and aligning operations with compliance frameworks (ISO 27001, NIST, HIPAA, GDPR).
+I’m a Senior Cybersecurity Engineer With 11+ years of experience across security engineering, cloud security, Vulnerability Management, SIEM, SOC Operations and incident response, I specialize in building secure cloud environments, automating security workflows, and aligning operations with compliance frameworks (ISO 27001, NIST, HIPAA, GDPR).
 I’m passionate about bridging the gap between engineering and governance to help organizations detect, prevent, and respond to threats efficiently.
 
 ---
