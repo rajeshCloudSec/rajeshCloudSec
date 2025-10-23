@@ -10,8 +10,8 @@
 
 ## 🧑‍💻 About Me
 
-I’m a Senior Cybersecurity Engineer with over **11 years** of experience across SIEM engineering, SOC operations, cloud security, and automation.  
-I specialize in Splunk (on-prem & cloud), SOAR (Phantom), and threat detection aligned with the MITRE ATT&CK framework.
+I’m a Senior Cybersecurity Engineer With 11+ years of experience across security engineering, cloud security, and incident response, I specialize in building secure cloud environments, automating security workflows, and aligning operations with compliance frameworks (ISO 27001, NIST, HIPAA, GDPR).
+I’m passionate about bridging the gap between engineering and governance to help organizations detect, prevent, and respond to threats efficiently.
 
 ---
 
